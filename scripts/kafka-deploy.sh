@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# github_endpoint: 'https://raw.githubusercontent.com/n0vabyte/kafka-occ/checksum/scripts/kafka-deploy.sh'
+
 set -e
 DEBUG="NO"
 if [ "${DEBUG}" == "NO" ]; then
